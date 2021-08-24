@@ -1,17 +1,6 @@
 const people = [
   {
     img:
-      "https://lh3.googleusercontent.com/a-/AOh14Giu0kiWyS2TqMwVEJ1al1_fpSVvwjTqir82_8H4-A=w60-h60-p-rp-mo-ba6-br100",
-    name: "Tania Cesar",
-    job: "Local Guide · Nível 8",
-    text: `Alto astral e competência essa é a misturinha mágica desse pessoal super antenado
-    Escola de surf séria e qualificada com professores dedicados que amam ensinar
-    Está localizada bem de frente ao projeto TAMAR, tem estacionamento e está a alguns passos do mar
-    O Roger, proprietário, ministra as aulas com muito carinho e nos transmite sua visão mais que apaixonada e sua sabedoria adquirida em muitos anos de surf, junto a ele está a Babi, que cuida de tudo com muita dedicação e atenção,pessoas queridas que farão de tudo para proporcionar aos alunos uma experiência inigualável.
-    Vale a pena conferir!`,
-  },
-  {
-    img:
       "https://lh3.googleusercontent.com/a-/AOh14GiYjYRznwekXx5B-5pkouNsyKt9njs5WctHDGFmWQI=w60-h60-p-rp-mo-br100",
     name: "Cesar Lopes",
     job: "Local Guide · Nível 2",
@@ -30,20 +19,6 @@ const people = [
     name: "M. M. Leal",
     job: "Local Guide · Nível 7",
     text: `Essa escola é simplesmente incrível!!  A cada aula me sinto mais segura e mais confortável mas ondas, logo no primeiro dia já consegui ficar em pé na prancha! Eles tem vários tamanhos de prancha disponíveis e todo o material necessário. As aulas são profissionais e tudo com muito respeito, paciência e didática você se diverte, aprende e se conecta com a natureza e as ondas. Altamente recomendado!!`,
-  },
-  {
-    img:
-      "https://lh3.googleusercontent.com/a-/AOh14Gh8OcfW8UpBhIn2HgTVwjr2IgwT1A-fHR8t4rLNXQ=w60-h60-p-rp-mo-ba5-br100",
-    name: "Natan Morette",
-    job: "Local Guide · Nível 7",
-    text: `Roger foi um excelente professor. Aulas muito boas, auto astral de mais. Aprendi a verdadeira essência do surf e me diverti muito. Além de ter evoluído de mais o meu nível de surf`,
-  },
-  {
-    img:
-      "https://lh3.googleusercontent.com/a-/AOh14GjHWM6SS1DVT6zLS50jgyPwNiRUPS9-ZbThNKiV5wY=w60-h60-p-rp-mo-br100",
-    name: "ISABEL FAGUNDES",
-    job: "",
-    text: `Simplesmente Maravilhoso! Profs atenciosos e de ótima comunicação! Realmente amam o surf!  Minha filha fez a aula e super amou! Realização! Obrigada e parabéns!`,
   },
   {
     img:

@@ -99,7 +99,7 @@ h3 {
   font-size: 1.25rem;
 }
 h4 {
-  font-size: 1rem;
+  font-size: 0.987rem;
   font-weight: bold;
 }
 p {
@@ -118,7 +118,6 @@ p {
   }
   h4 {
     font-size: 1rem;
-    font-weight: bold;
   }
   body {
     font-size: 1rem;
@@ -164,13 +163,10 @@ section {
 .reviews {
   margin-bottom: 4rem;
 }
-.reviews h2, .reviews h4 {
+.reviews h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.reviews h4 {
-  font-weight: bold;
 }
 .reviews span {
   font-size: 0.85em;

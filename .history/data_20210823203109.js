@@ -1,17 +1,6 @@
 const people = [
   {
     img:
-      "https://lh3.googleusercontent.com/a-/AOh14Giu0kiWyS2TqMwVEJ1al1_fpSVvwjTqir82_8H4-A=w60-h60-p-rp-mo-ba6-br100",
-    name: "Tania Cesar",
-    job: "Local Guide · Nível 8",
-    text: `Alto astral e competência essa é a misturinha mágica desse pessoal super antenado
-    Escola de surf séria e qualificada com professores dedicados que amam ensinar
-    Está localizada bem de frente ao projeto TAMAR, tem estacionamento e está a alguns passos do mar
-    O Roger, proprietário, ministra as aulas com muito carinho e nos transmite sua visão mais que apaixonada e sua sabedoria adquirida em muitos anos de surf, junto a ele está a Babi, que cuida de tudo com muita dedicação e atenção,pessoas queridas que farão de tudo para proporcionar aos alunos uma experiência inigualável.
-    Vale a pena conferir!`,
-  },
-  {
-    img:
       "https://lh3.googleusercontent.com/a-/AOh14GiYjYRznwekXx5B-5pkouNsyKt9njs5WctHDGFmWQI=w60-h60-p-rp-mo-br100",
     name: "Cesar Lopes",
     job: "Local Guide · Nível 2",

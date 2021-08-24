@@ -32,7 +32,9 @@ container.innerHTML = people
   <p class="text">
    ${text}
   </p>
-  <br/><p>Fonte: <a href="https://www.google.com/maps/place/Floripa+Surf+Club+Surf+School/@-27.5722772,-48.4276483,3a,75y/data=!3m7!1e2!3m5!1sAF1QipNeZv-e5wVZk1upf5xb2Mxlu2Z3TG-rbVS8ihxQ!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNeZv-e5wVZk1upf5xb2Mxlu2Z3TG-rbVS8ihxQ%3Dw150-h150-k-no-p!7i720!8i720!4m11!1m2!2m1!1sfloripa+surfclub!3m7!1s0x95273f5658129455:0xe63707f3e5b0a90b!8m2!3d-27.5722772!4d-48.4276483!9m1!1b1!15sChBmbG9yaXBhIHN1cmZjbHVikgENc3BvcnRzX3NjaG9vbA">Google Maps</a></p>
+<div class="quote-icon">
+<i class="fas fa-quote-right"></i>
+</div>
  </article>`;
   })
   .join("");

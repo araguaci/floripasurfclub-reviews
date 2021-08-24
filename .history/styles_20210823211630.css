@@ -164,13 +164,10 @@ section {
 .reviews {
   margin-bottom: 4rem;
 }
-.reviews h2, .reviews h4 {
+.reviews h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.reviews h4 {
-  font-weight: bold;
 }
 .reviews span {
   font-size: 0.85em;
