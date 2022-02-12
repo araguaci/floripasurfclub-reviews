@@ -285,8 +285,7 @@ h4 {
   width: 100%;
   background-color: hsl(212, 33%, 89%);
 }
-.github { 
+.github-button { 
   position: fixed;
-  top: 10px;
-  left: 10px;
+  top: 10;
 }

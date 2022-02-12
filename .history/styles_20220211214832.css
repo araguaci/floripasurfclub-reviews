@@ -142,7 +142,7 @@ p {
   }
 }
 main {
-  min-height: 98vh;
+  min-height: 100vh;
   display: grid;
   place-items: center;
 }
@@ -280,13 +280,7 @@ h4 {
 .footer {
   position: fixed;
   bottom: 0;
-  height: 40px;
-  padding: 3px 0px;
+  height: 30px;
   width: 100%;
-  background-color: hsl(212, 33%, 89%);
-}
-.github { 
-  position: fixed;
-  top: 10px;
-  left: 10px;
+  background-color: transparent;
 }

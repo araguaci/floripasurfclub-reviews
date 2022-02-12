@@ -285,8 +285,6 @@ h4 {
   width: 100%;
   background-color: hsl(212, 33%, 89%);
 }
-.github { 
-  position: fixed;
-  top: 10px;
-  left: 10px;
+.widget {
+  margin-top: 10px !important; margin-left: 10px !important;
 }

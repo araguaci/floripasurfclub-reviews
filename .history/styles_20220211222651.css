@@ -142,7 +142,7 @@ p {
   }
 }
 main {
-  min-height: 98vh;
+  min-height: 100vh;
   display: grid;
   place-items: center;
 }
@@ -285,8 +285,6 @@ h4 {
   width: 100%;
   background-color: hsl(212, 33%, 89%);
 }
-.github { 
-  position: fixed;
-  top: 10px;
-  left: 10px;
+.widget {
+  margin-top: 10px !important; margin-left: 10px !important;
 }
