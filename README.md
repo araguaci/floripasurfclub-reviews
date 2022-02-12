@@ -1,6 +1,6 @@
 # javascript-slider-reviews
   
-  - sliders reviews
+  - [show sliders reviews](https://javascript-slider-reviews.vercel.app/)
 
 # floripa-surf-club-surf-school
 
