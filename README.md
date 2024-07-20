@@ -1,10 +1,10 @@
 # javascript-slider-reviews
   
-  - [show sliders reviews](https://javascript-slider-reviews.vercel.app/)
+  - [floripasurfclub-reviews](https://floripasurfclub-reviews.vercel.app/)
 
 # floripa-surf-club-surf-school
 
-  - Website: [Floripa Surf Club Surf School](http://www.floripasurfclub.com.br/)
+  - Website: [Floripa Surf Club Surf School](http://www.floripasurfclub.com/)
   - Instagram: [@floripasurfcluboficial](https://www.instagram.com/floripasurfcluboficial/)
   - Facebook: [@FloripaSurfClubSurfSchool](https://www.facebook.com/pg/FloripaSurfClubSurfSchool/photos/?ref=page_internal)
 
