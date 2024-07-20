@@ -290,24 +290,14 @@ h4 {
   top: 10px;
   left: 10px;
 }
-.github-corner {
-  border-bottom: 0;
-  position: fixed;
-  right: 0;
-  text-decoration: none;
-  top: 0;
-  z-index: 1
-}
-.github-corner:hover .octo-arm {
-  -webkit-animation: octocat-wave .56s ease-in-out;
-  animation: octocat-wave .56s ease-in-out
-}
+
 .github-corner svg {
   color: #fff;
   fill: var(--accent);
   height: 70px;
   width: 70px;
 }
+
 .github-corner svg {
   color: #fff;
   fill: hsl(205, 72%, 37%);
